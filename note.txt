@@ -1,0 +1,14 @@
+- Khởi động xampp
+- Start Apache
+- Start MySQL, quyền admin
+- Import quanlidancu.sql vào database test 
+- Chạy quanlidancu/dist/quanlidancu.jar
+- Tên đăng nhập, mật khẩu:
++----------------------------------------------+---------------+
+|                   username                   |    pasword    |
+|----------------------------------------------+---------------|
+|admin (đầy đủ chức năng)		       |        1      |
+|totruong/topho (nhân khẩu, hộ khẩu, thống kê) |        1      |
+|ketoan (quản lí thu phí đóng góp)	       |        1      |
++----------------------------------------------+---------------+
+
